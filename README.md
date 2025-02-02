@@ -16,8 +16,8 @@ Monokai Color Scheme for Windows Terminal.
     {
       "background": "#262626",
       "black": "#1B1D1E",
-      "blue": "#465457",
-      "brightBlack": "#505354",
+      "blue": "#6B8387",
+      "brightBlack": "#7A7C7D",
       "brightBlue": "#899CA1",
       "brightCyan": "#8CEDFF",
       "brightGreen": "#B6E354",
@@ -25,12 +25,14 @@ Monokai Color Scheme for Windows Terminal.
       "brightRed": "#FF5995",
       "brightWhite": "#F8F8F2",
       "brightYellow": "#FEED6C",
+      "cursorColor": "#FFFFFF",
       "cyan": "#56C2D6",
       "foreground": "#F8F8F2",
       "green": "#82B414",
       "name": "Monokai",
       "purple": "#8C54FE",
       "red": "#F92672",
+      "selectionBackground": "#FFFFFF",
       "white": "#CCCCC6",
       "yellow": "#FD971F"
     }
