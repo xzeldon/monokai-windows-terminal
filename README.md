@@ -1,11 +1,15 @@
 # Monokai Windows Terminal
+
 Monokai Color Scheme for Windows Terminal.
 
-![screenshot](https://raw.githubusercontent.com/yosukes-dev/monokai-windows-terminal/master/img/screenshot.png)
+![screenshot](./img/screenshot.png)
 
 ### How To Use
+
 #### 1. Open Settings(profiles.json)
+
 #### 2. Copy Schemes from `schemes.json` file on this repo and paste into `schemes` section.
+
 ```json
 // Add custom color schemes to this array
   "schemes": [
@@ -32,7 +36,9 @@ Monokai Color Scheme for Windows Terminal.
     }
   ],
 ```
+
 #### 3. Set `colorScheme`.
+
 ```json
 "colorScheme": "Monokai",
 ```
